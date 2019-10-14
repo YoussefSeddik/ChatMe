@@ -4,7 +4,7 @@ you can view online friends and chat with them realtime.
 tools : Android studio, firebase database, onesignal notification, google material design.
 
 Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
 :![image](https://github.com/youssefseddik/AndroidProjects/blob/master/1.png) :
  |:  ![image](https://github.com/youssefseddik/AndroidProjects/blob/master/2.png):
  |: ![image](https://github.com/youssefseddik/AndroidProjects/blob/master/3.png):
